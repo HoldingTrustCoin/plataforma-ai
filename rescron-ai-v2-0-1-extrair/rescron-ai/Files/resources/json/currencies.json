@@ -1,0 +1,2942 @@
+[
+    {
+        "code": "00",
+        "name": "00 Token",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "1inch",
+        "name": "1inch",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "aave",
+        "name": "Aave",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "abt",
+        "name": "Arcblock",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "ach",
+        "name": "Alchemy Pay",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "acs",
+        "name": "ACryptoS",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "ada",
+        "name": "Cardano",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "aed",
+        "name": "UAE Dirham",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "aergo",
+        "name": "Aergo",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "afn",
+        "name": "Afghan Afghani",
+        "is_fiat": true,
+        "symbol": "؋"
+    },
+    {
+        "code": "agld",
+        "name": "Adventure Gold",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "aioz",
+        "name": "Aioz Network",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "alcx",
+        "name": "Alchemix",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "aleph",
+        "name": "Aleph.im",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "algo",
+        "name": "Algorand",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "alice",
+        "name": "My Neighbor Alice",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "all",
+        "name": "Albanian Lek",
+        "is_fiat": true,
+        "symbol": "Lek"
+    },
+    {
+        "code": "amd",
+        "name": "Armenian Dram",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "amp",
+        "name": "Amp",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "ang",
+        "name": "Netherlands Antillean Guilder",
+        "is_fiat": true,
+        "symbol": "ƒ"
+    },
+    {
+        "code": "ankr",
+        "name": "Ankr Network",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "ant",
+        "name": "Aragon",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "aoa",
+        "name": "Angolan Kwanza",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "ape",
+        "name": "ApeCoin",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "api3",
+        "name": "API3",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "apt",
+        "name": "Aptos",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "ar",
+        "name": "Arweave",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "arb",
+        "name": "Arbitrum",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "arpa",
+        "name": "ARPA Chain",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "ars",
+        "name": "Argentine Peso",
+        "is_fiat": true,
+        "symbol": "$"
+    },
+    {
+        "code": "asm",
+        "name": "Assemble Protocol",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "ast",
+        "name": "AirSwap",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "ata",
+        "name": "Automata Network",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "atom",
+        "name": "Cosmos",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "auction",
+        "name": "Bounce Token AUCTION",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "aud",
+        "name": "Australian Dollar",
+        "is_fiat": true,
+        "symbol": "$"
+    },
+    {
+        "code": "audio",
+        "name": "Audius",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "aurora",
+        "name": "Aurora",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "avax",
+        "name": "Avalanche",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "avt",
+        "name": "Aventus",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "awg",
+        "name": "Aruban Florin",
+        "is_fiat": true,
+        "symbol": "ƒ"
+    },
+    {
+        "code": "axl",
+        "name": "Axelar",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "axs",
+        "name": "Axie Infinity",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "azn",
+        "name": "Azerbaijani Manat",
+        "is_fiat": true,
+        "symbol": "₼"
+    },
+    {
+        "code": "badger",
+        "name": "Badger DAO",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "bake",
+        "name": "BakeryToken",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "bal",
+        "name": "Balancer",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "bam",
+        "name": "Bosnia-Herzegovina Convertible Mark",
+        "is_fiat": true,
+        "symbol": "KM"
+    },
+    {
+        "code": "band",
+        "name": "Band Protocol",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "bat",
+        "name": "Basic Attention Token",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "bbd",
+        "name": "Barbadian Dollar",
+        "is_fiat": true,
+        "symbol": "$"
+    },
+    {
+        "code": "bch",
+        "name": "Bitcoin Cash",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "bdt",
+        "name": "Bangladeshi Taka",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "bgn",
+        "name": "Bulgarian Lev",
+        "is_fiat": true,
+        "symbol": "лв"
+    },
+    {
+        "code": "bhd",
+        "name": "Bahraini Dinar",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "bico",
+        "name": "Biconomy",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "bif",
+        "name": "Burundian Franc",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "bit",
+        "name": "BitDAO",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "blur",
+        "name": "Blur",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "blz",
+        "name": "Bluzelle",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "bmd",
+        "name": "Bermudian Dollar",
+        "is_fiat": true,
+        "symbol": "$"
+    },
+    {
+        "code": "bnb",
+        "name": "Binance Coin",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "bnd",
+        "name": "Brunei Dollar",
+        "is_fiat": true,
+        "symbol": "$"
+    },
+    {
+        "code": "bnt",
+        "name": "Bancor Network",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "bob",
+        "name": "Bolivian Boliviano",
+        "is_fiat": true,
+        "symbol": "$b"
+    },
+    {
+        "code": "boba",
+        "name": "Boba Network",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "bond",
+        "name": "BarnBridge",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "brl",
+        "name": "Brazilian Real",
+        "is_fiat": true,
+        "symbol": "R$"
+    },
+    {
+        "code": "bsd",
+        "name": "Bahamian Dollar",
+        "is_fiat": true,
+        "symbol": "$"
+    },
+    {
+        "code": "bsv",
+        "name": "Bitcoin SV",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "bsw",
+        "name": "Biswap",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "btc",
+        "name": "Bitcoin",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "btcb",
+        "name": "Bitcoin BEP2",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "btg",
+        "name": "Bitcoin Gold",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "btn",
+        "name": "Bhutanese Ngultrum",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "btrst",
+        "name": "Braintrust",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "busd",
+        "name": "Binance USD",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "bwp",
+        "name": "Botswanan Pula",
+        "is_fiat": true,
+        "symbol": "P"
+    },
+    {
+        "code": "byn",
+        "name": "New Belarusian Ruble",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "byr",
+        "name": "Belarusian Ruble",
+        "is_fiat": true,
+        "symbol": "p."
+    },
+    {
+        "code": "bzd",
+        "name": "Belize Dollar",
+        "is_fiat": true,
+        "symbol": "BZ$"
+    },
+    {
+        "code": "c98",
+        "name": "Coin98",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "cad",
+        "name": "Canadian Dollar",
+        "is_fiat": true,
+        "symbol": "$"
+    },
+    {
+        "code": "cake",
+        "name": "PancakeSwap",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "cbeth",
+        "name": "Coinbase Wrapped Staked ETH",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "cdf",
+        "name": "Congolese Franc",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "celo",
+        "name": "Celo",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "celr",
+        "name": "Celer Network",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "cgld",
+        "name": "Celo Gold",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "chf",
+        "name": "Swiss Franc",
+        "is_fiat": true,
+        "symbol": "CHF"
+    },
+    {
+        "code": "chz",
+        "name": "Chiliz",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "clp",
+        "name": "Chilean Peso",
+        "is_fiat": true,
+        "symbol": "$"
+    },
+    {
+        "code": "clv",
+        "name": "Clover Finance",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "cnh",
+        "name": "Chinese Yuan Renminbi Offshore",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "cny",
+        "name": "Chinese Yuan Renminbi",
+        "is_fiat": true,
+        "symbol": "¥"
+    },
+    {
+        "code": "comp",
+        "name": "Compound",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "cop",
+        "name": "Colombian Peso",
+        "is_fiat": true,
+        "symbol": "$"
+    },
+    {
+        "code": "coti",
+        "name": "COTI",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "coval",
+        "name": "COVAL",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "crc",
+        "name": "Costa Rican Colon",
+        "is_fiat": true,
+        "symbol": "₡"
+    },
+    {
+        "code": "cro",
+        "name": "Crypto.com Chain",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "crpt",
+        "name": "Crypterium",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "crv",
+        "name": "Curve DAO Token",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "ctsi",
+        "name": "Cartesi",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "ctx",
+        "name": "Cryptex Finance",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "cuc",
+        "name": "Cuban Convertible Peso",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "cup",
+        "name": "Cuban Peso",
+        "is_fiat": true,
+        "symbol": "₱"
+    },
+    {
+        "code": "cvc",
+        "name": "Civic",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "cve",
+        "name": "Cape Verdean Escudo",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "cvx",
+        "name": "Convex Finance",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "czk",
+        "name": "Czech Koruna",
+        "is_fiat": true,
+        "symbol": "Kč"
+    },
+    {
+        "code": "dai",
+        "name": "DAI",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "dar",
+        "name": "Mines of Dalarnia",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "dash",
+        "name": "Digital Cash",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "dcr",
+        "name": "Decred",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "ddx",
+        "name": "DerivaDAO",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "deso",
+        "name": "Decentralized Social",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "dext",
+        "name": "DEXTools",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "dfi",
+        "name": "DfiStarter",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "dia",
+        "name": "Dia",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "dimo",
+        "name": "DIMO",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "djf",
+        "name": "Djibouti Franc",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "dkk",
+        "name": "Danish Krone",
+        "is_fiat": true,
+        "symbol": "kr"
+    },
+    {
+        "code": "dnt",
+        "name": "District0x",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "doge",
+        "name": "Dogecoin",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "dop",
+        "name": "Dominican Peso",
+        "is_fiat": true,
+        "symbol": "RD$"
+    },
+    {
+        "code": "dot",
+        "name": "Polkadot",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "drep",
+        "name": "Drep [new]",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "dyp",
+        "name": "DeFi Yield Protocol",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "dzd",
+        "name": "Algerian Dinar",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "eek",
+        "name": "Estonian Kroon",
+        "is_fiat": true,
+        "symbol": "kr"
+    },
+    {
+        "code": "egld",
+        "name": "Elrond",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "egp",
+        "name": "Egyptian Pound",
+        "is_fiat": true,
+        "symbol": "£"
+    },
+    {
+        "code": "ela",
+        "name": "Elastos",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "enj",
+        "name": "Enjin Coin",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "ens",
+        "name": "Ethereum Name Service",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "eos",
+        "name": "EOS",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "ern",
+        "name": "Eritrean Nakfa",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "etb",
+        "name": "Ethiopian Birr",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "etc",
+        "name": "Ethereum Classic",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "eth",
+        "name": "Ethereum",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "eth2",
+        "name": "Ethereum 2.0",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "eur",
+        "name": "Euro",
+        "is_fiat": true,
+        "symbol": "€"
+    },
+    {
+        "code": "euroc",
+        "name": "Euro Coin",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "farm",
+        "name": "Harvest Finance",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "fei",
+        "name": "Fei USD",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "fet",
+        "name": "Fetch.ai",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "fida",
+        "name": "Bonfida",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "fil",
+        "name": "Filecoin",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "fis",
+        "name": "Stafi",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "fjd",
+        "name": "Fiji Dollar",
+        "is_fiat": true,
+        "symbol": "$"
+    },
+    {
+        "code": "fkp",
+        "name": "Falkland Islands Pound",
+        "is_fiat": true,
+        "symbol": "£"
+    },
+    {
+        "code": "flow",
+        "name": "Flow",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "flr",
+        "name": "FLARE",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "fort",
+        "name": "Forta",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "forth",
+        "name": "Ampleforth Governance Token",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "fox",
+        "name": "Shapeshift FOX Token",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "frax",
+        "name": "Frax",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "ftm",
+        "name": "Fantom",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "ftt",
+        "name": "FarmaTrust",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "fx",
+        "name": "Function X",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "gal",
+        "name": "Project Galaxy",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "gala",
+        "name": "Gala",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "gbp",
+        "name": "Pound Sterling",
+        "is_fiat": true,
+        "symbol": "£"
+    },
+    {
+        "code": "gel",
+        "name": "Georgian Lari",
+        "is_fiat": true,
+        "symbol": "₾"
+    },
+    {
+        "code": "gfi",
+        "name": "Goldfinch",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "ggp",
+        "name": "Guernsey Pound",
+        "is_fiat": true,
+        "symbol": "£"
+    },
+    {
+        "code": "ghs",
+        "name": "Ghanaian Cedi",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "ghst",
+        "name": "Aavegotchi",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "gip",
+        "name": "Gibraltar Pound",
+        "is_fiat": true,
+        "symbol": "£"
+    },
+    {
+        "code": "glm",
+        "name": "Golem",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "gmd",
+        "name": "Gambian Dalasi",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "gmt",
+        "name": "Stepn",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "gnf",
+        "name": "Guinean Franc",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "gno",
+        "name": "Gnosis",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "gnt",
+        "name": "GreenTrust",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "gods",
+        "name": "Gods Unchained",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "grt",
+        "name": "The Graph",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "gst",
+        "name": "Green Satoshi Token",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "gt",
+        "name": "GateToken",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "gtc",
+        "name": "Gitcoin",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "gtq",
+        "name": "Guatemalan Quetzal",
+        "is_fiat": true,
+        "symbol": "Q"
+    },
+    {
+        "code": "gusd",
+        "name": "Gemini US Dollar",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "gyd",
+        "name": "Guyana Dollar",
+        "is_fiat": true,
+        "symbol": "$"
+    },
+    {
+        "code": "gyen",
+        "name": "GYEN",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "hbar",
+        "name": "Hedera",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "hft",
+        "name": "Hashflow",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "high",
+        "name": "Highstreet",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "hkd",
+        "name": "Hong Kong Dollar",
+        "is_fiat": true,
+        "symbol": "$"
+    },
+    {
+        "code": "hnl",
+        "name": "Honduran Lempira",
+        "is_fiat": true,
+        "symbol": "L"
+    },
+    {
+        "code": "hnt",
+        "name": "Helium",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "hopr",
+        "name": "HOPR",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "hot",
+        "name": "Hydro Protocol",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "hrk",
+        "name": "Croatian Kuna",
+        "is_fiat": true,
+        "symbol": "kn"
+    },
+    {
+        "code": "ht",
+        "name": "Huobi Token",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "htg",
+        "name": "Haitian Gourde",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "huf",
+        "name": "Hungarian Forint",
+        "is_fiat": true,
+        "symbol": "Ft"
+    },
+    {
+        "code": "icp",
+        "name": "Internet Computer",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "idex",
+        "name": "IDEX",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "idr",
+        "name": "Indonesian Rupiah",
+        "is_fiat": true,
+        "symbol": "Rp"
+    },
+    {
+        "code": "ils",
+        "name": "New Israeli Sheqel",
+        "is_fiat": true,
+        "symbol": "₪"
+    },
+    {
+        "code": "ilv",
+        "name": "Illuvium",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "imp",
+        "name": "Isle of Man Pound",
+        "is_fiat": true,
+        "symbol": "£"
+    },
+    {
+        "code": "imx",
+        "name": "Immutable X",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "index",
+        "name": "Index Cooperative",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "inj",
+        "name": "Injective",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "inr",
+        "name": "Indian Rupee",
+        "is_fiat": true,
+        "symbol": "₹"
+    },
+    {
+        "code": "inv",
+        "name": "Inverse Finance",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "iotx",
+        "name": "IoTeX",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "iqd",
+        "name": "Iraqi Dinar",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "irr",
+        "name": "Iranian Rial",
+        "is_fiat": true,
+        "symbol": "﷼"
+    },
+    {
+        "code": "isk",
+        "name": "Iceland Krona",
+        "is_fiat": true,
+        "symbol": "kr"
+    },
+    {
+        "code": "jasmy",
+        "name": "Jasmy",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "jep",
+        "name": "Jersey Pound",
+        "is_fiat": true,
+        "symbol": "£"
+    },
+    {
+        "code": "jmd",
+        "name": "Jamaican Dollar",
+        "is_fiat": true,
+        "symbol": "J$"
+    },
+    {
+        "code": "jod",
+        "name": "Jordanian Dinar",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "jpy",
+        "name": "Japanese Yen",
+        "is_fiat": true,
+        "symbol": "¥"
+    },
+    {
+        "code": "jup",
+        "name": "Jupiter",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "kas",
+        "name": "",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "kava",
+        "name": "Kava",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "kcs",
+        "name": "Kucoin",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "kda",
+        "name": "Kadena",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "keep",
+        "name": "Keep Network",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "kes",
+        "name": "Kenyan Shilling",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "kgs",
+        "name": "Kyrgyzstani Som",
+        "is_fiat": true,
+        "symbol": "лв"
+    },
+    {
+        "code": "khr",
+        "name": "Cambodian Riel",
+        "is_fiat": true,
+        "symbol": "៛"
+    },
+    {
+        "code": "klay",
+        "name": "Klaytn",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "kmf",
+        "name": "Comorian Franc",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "knc",
+        "name": "Kyber Network Crystals",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "kpw",
+        "name": "North Korean Won",
+        "is_fiat": true,
+        "symbol": "₩"
+    },
+    {
+        "code": "krl",
+        "name": "Kryll",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "krw",
+        "name": "South Korean Won",
+        "is_fiat": true,
+        "symbol": "₩"
+    },
+    {
+        "code": "ksm",
+        "name": "Kusama",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "kwd",
+        "name": "Kuwaiti Dinar",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "kyd",
+        "name": "Cayman Islands Dollar",
+        "is_fiat": true,
+        "symbol": "$"
+    },
+    {
+        "code": "kzt",
+        "name": "Kazakhstani Tenge",
+        "is_fiat": true,
+        "symbol": "лв"
+    },
+    {
+        "code": "lak",
+        "name": "Laotian Kip",
+        "is_fiat": true,
+        "symbol": "₭"
+    },
+    {
+        "code": "lbp",
+        "name": "Lebanese Pound",
+        "is_fiat": true,
+        "symbol": "£"
+    },
+    {
+        "code": "lcx",
+        "name": "LCX",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "ldo",
+        "name": "Lido DAO Token",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "leo",
+        "name": "LEOcoin",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "link",
+        "name": "Chainlink",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "lit",
+        "name": "Litentry",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "lkr",
+        "name": "Sri Lankan Rupee",
+        "is_fiat": true,
+        "symbol": "₨"
+    },
+    {
+        "code": "loka",
+        "name": "League of Kingdoms Arena",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "loom",
+        "name": "Loom Network",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "lpt",
+        "name": "Livepeer (LPT)",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "lqty",
+        "name": "Liquity",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "lrc",
+        "name": "Loopring",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "lrd",
+        "name": "Liberian Dollar",
+        "is_fiat": true,
+        "symbol": "$"
+    },
+    {
+        "code": "lseth",
+        "name": "Liquid Staked Ethereum",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "lsl",
+        "name": "Lesotho Loti",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "ltc",
+        "name": "Litecoin",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "ltl",
+        "name": "Lithuanian Litas",
+        "is_fiat": true,
+        "symbol": "Lt"
+    },
+    {
+        "code": "luna",
+        "name": "Luna Coin",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "lvl",
+        "name": "Latvian Lats",
+        "is_fiat": true,
+        "symbol": "Ls"
+    },
+    {
+        "code": "lyd",
+        "name": "Libyan Dinar",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "mad",
+        "name": "Moroccan Dirham",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "magic",
+        "name": "MAGIC",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "mana",
+        "name": "Mana Coin Decentraland",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "mask",
+        "name": "Mask Network",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "math",
+        "name": "MATH",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "matic",
+        "name": "Polygon",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "mco2",
+        "name": "Moss Carbon Credit",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "mdl",
+        "name": "Moldovan Leu",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "mdt",
+        "name": "Measurable Data Token",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "media",
+        "name": "Media Network",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "metis",
+        "name": "MetisDAO",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "mga",
+        "name": "Malagasy Ariary",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "mina",
+        "name": "Mina",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "miota",
+        "name": "IOTA",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "mir",
+        "name": "Mirror Protocol",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "mkd",
+        "name": "Macedonian Denar",
+        "is_fiat": true,
+        "symbol": "ден"
+    },
+    {
+        "code": "mkr",
+        "name": "Maker",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "mln",
+        "name": "Enzyme",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "mmk",
+        "name": "Burmese Kyat",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "mnde",
+        "name": "Marinade",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "mnt",
+        "name": "Mongolian Tögrög",
+        "is_fiat": true,
+        "symbol": "₮"
+    },
+    {
+        "code": "mona",
+        "name": "Monavale",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "mop",
+        "name": "Macau Pataca",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "mpl",
+        "name": "Maple",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "mro",
+        "name": "Mauritanian Ouguiya",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "mru",
+        "name": "Mauritanian Ouguiya",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "msol",
+        "name": "Marinade Staked SOL",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "mtl",
+        "name": "Maltese Lira",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "multi",
+        "name": "Multichain",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "mur",
+        "name": "Mauritius Rupee",
+        "is_fiat": true,
+        "symbol": "₨"
+    },
+    {
+        "code": "musd",
+        "name": "mStableUSD",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "muse",
+        "name": "Muse",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "mvr",
+        "name": "Maldivian Rufiyaa",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "mwk",
+        "name": "Malawian Kwacha",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "mxc",
+        "name": "MXC",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "mxn",
+        "name": "Mexican Peso",
+        "is_fiat": true,
+        "symbol": "$"
+    },
+    {
+        "code": "myr",
+        "name": "Malaysian Ringgit",
+        "is_fiat": true,
+        "symbol": "RM"
+    },
+    {
+        "code": "mzn",
+        "name": "Mozambican Metical",
+        "is_fiat": true,
+        "symbol": "MT"
+    },
+    {
+        "code": "nad",
+        "name": "Namibian Dollar",
+        "is_fiat": true,
+        "symbol": "$"
+    },
+    {
+        "code": "nct",
+        "name": "Polyswarm",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "near",
+        "name": "NEAR Protocol",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "neo",
+        "name": "NEO",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "nest",
+        "name": "NEST Protocol",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "nexo",
+        "name": "NEXO",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "ngn",
+        "name": "Nigerian Naira",
+        "is_fiat": true,
+        "symbol": "₦"
+    },
+    {
+        "code": "nio",
+        "name": "Nicaraguan Córdoba",
+        "is_fiat": true,
+        "symbol": "C$"
+    },
+    {
+        "code": "nkn",
+        "name": "NKN",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "nmr",
+        "name": "Numeraire Network",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "nok",
+        "name": "Norwegian Krone",
+        "is_fiat": true,
+        "symbol": "kr"
+    },
+    {
+        "code": "npr",
+        "name": "Nepalese Rupee",
+        "is_fiat": true,
+        "symbol": "₨"
+    },
+    {
+        "code": "nu",
+        "name": "NuCypher",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "nzd",
+        "name": "New Zealand Dollar",
+        "is_fiat": true,
+        "symbol": "$"
+    },
+    {
+        "code": "ocean",
+        "name": "Ocean Protocol",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "ogn",
+        "name": "Origin Token",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "okb",
+        "name": "Okex",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "omg",
+        "name": "Omisego",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "omr",
+        "name": "Omani Rial",
+        "is_fiat": true,
+        "symbol": "﷼"
+    },
+    {
+        "code": "one",
+        "name": "Menlo One",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "ooki",
+        "name": "Ooki Protocol",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "op",
+        "name": "Optimism",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "orca",
+        "name": "Orca",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "orn",
+        "name": "Orion Protocol",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "osmo",
+        "name": "Osmosis",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "oxt",
+        "name": "Orchid Network",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "pab",
+        "name": "Panamanian Balboa",
+        "is_fiat": true,
+        "symbol": "B/."
+    },
+    {
+        "code": "pax",
+        "name": "Paxos Standard Token",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "paxg",
+        "name": "PAX Gold",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "pen",
+        "name": "Peruvian Sol",
+        "is_fiat": true,
+        "symbol": "S/."
+    },
+    {
+        "code": "perp",
+        "name": "Perpetual Protocol",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "pgk",
+        "name": "Papua New Guinean Kina",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "php",
+        "name": "Philippine Piso",
+        "is_fiat": true,
+        "symbol": "₱"
+    },
+    {
+        "code": "pkr",
+        "name": "Pakistani Rupee",
+        "is_fiat": true,
+        "symbol": "₨"
+    },
+    {
+        "code": "pla",
+        "name": "PlayDapp",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "pln",
+        "name": "Polish Zloty",
+        "is_fiat": true,
+        "symbol": "zł"
+    },
+    {
+        "code": "plu",
+        "name": "Pluton",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "png",
+        "name": "Pangolin",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "pols",
+        "name": "Polkastarter",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "poly",
+        "name": "Polymath",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "pond",
+        "name": "Marlin",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "powr",
+        "name": "Powerledger",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "prime",
+        "name": "Echelon Prime",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "pro",
+        "name": "Propy",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "prq",
+        "name": "PARSIQ",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "pundix",
+        "name": "Pundi X (New)",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "pyg",
+        "name": "Paraguayan Guaraní",
+        "is_fiat": true,
+        "symbol": "Gs"
+    },
+    {
+        "code": "pyr",
+        "name": "Vulcan Forged PYR",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "qar",
+        "name": "Qatari Rial",
+        "is_fiat": true,
+        "symbol": "﷼"
+    },
+    {
+        "code": "qi",
+        "name": "BENQI",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "qnt",
+        "name": "Quant",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "qsp",
+        "name": "Quantstamp",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "qtum",
+        "name": "QTUM",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "quick",
+        "name": "QuickSwap",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "rad",
+        "name": "Radicle",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "rai",
+        "name": "Rai Reflex Index",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "rare",
+        "name": "SuperRare",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "rari",
+        "name": "Rarible",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "rbn",
+        "name": "Ribbon FInance",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "ren",
+        "name": "renBTC",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "rep",
+        "name": "Augur",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "repv2",
+        "name": "REPv2",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "req",
+        "name": "Request",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "rgt",
+        "name": "Rari Governance Token",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "rlc",
+        "name": "iExec RLC",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "rly",
+        "name": "Rally",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "rndr",
+        "name": "Render Token",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "ron",
+        "name": "Romanian Leu",
+        "is_fiat": true,
+        "symbol": "lei"
+    },
+    {
+        "code": "rose",
+        "name": "Oasis Network",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "rpl",
+        "name": "Rocket Pool",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "rsd",
+        "name": "Serbian Dinar",
+        "is_fiat": true,
+        "symbol": "Дин."
+    },
+    {
+        "code": "rub",
+        "name": "Russian Ruble",
+        "is_fiat": true,
+        "symbol": "₽"
+    },
+    {
+        "code": "rune",
+        "name": "THORChain (ERC20)",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "rvn",
+        "name": "Ravencoin",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "rwf",
+        "name": "Rwandan Franc",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "sand",
+        "name": "The Sandbox",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "sar",
+        "name": "Saudi Riyal",
+        "is_fiat": true,
+        "symbol": "﷼"
+    },
+    {
+        "code": "sbd",
+        "name": "Solomon Islands Dollar",
+        "is_fiat": true,
+        "symbol": "$"
+    },
+    {
+        "code": "scr",
+        "name": "Seychellois Rupee",
+        "is_fiat": true,
+        "symbol": "₨"
+    },
+    {
+        "code": "sdg",
+        "name": "Sudanese Pound",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "sei",
+        "name": "",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "sek",
+        "name": "Swedish Krona",
+        "is_fiat": true,
+        "symbol": "kr"
+    },
+    {
+        "code": "sgd",
+        "name": "Singapore Dollar",
+        "is_fiat": true,
+        "symbol": "$"
+    },
+    {
+        "code": "shib",
+        "name": "Shiba Inu",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "shp",
+        "name": "Saint Helena Pound",
+        "is_fiat": true,
+        "symbol": "£"
+    },
+    {
+        "code": "shping",
+        "name": "Shping Coin",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "skk",
+        "name": "Slovak Koruna",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "skl",
+        "name": "SKALE Network",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "sle",
+        "name": "Sierra Leonean Leone",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "sll",
+        "name": "Sierra Leonean Leone",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "snt",
+        "name": "Status Network",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "snx",
+        "name": "Synthetix Network",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "sol",
+        "name": "Solana",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "sos",
+        "name": "Somali Shilling",
+        "is_fiat": true,
+        "symbol": "S"
+    },
+    {
+        "code": "spa",
+        "name": "Sperax",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "spell",
+        "name": "Spell Token",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "srd",
+        "name": "Surinamese Dollar",
+        "is_fiat": true,
+        "symbol": "$"
+    },
+    {
+        "code": "ssp",
+        "name": "South Sudanese Pound",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "std",
+        "name": "São Tomé and Príncipe Dobra",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "stg",
+        "name": "Stargate Finance",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "stn",
+        "name": "São Tomé and Príncipe Dobra",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "storj",
+        "name": "Storj",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "stx",
+        "name": "Stacks",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "sui",
+        "name": "Sui",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "suku",
+        "name": "SUKU",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "super",
+        "name": "SuperFarm",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "sushi",
+        "name": "SushiSwap",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "svc",
+        "name": "Salvadoran Colón",
+        "is_fiat": true,
+        "symbol": "$"
+    },
+    {
+        "code": "swftc",
+        "name": "SwftCoin",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "sylo",
+        "name": "Sylo",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "syn",
+        "name": "Synapse",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "syp",
+        "name": "Syrian Pound",
+        "is_fiat": true,
+        "symbol": "£"
+    },
+    {
+        "code": "szl",
+        "name": "Swazi Lilangeni",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "t",
+        "name": "Threshold",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "thb",
+        "name": "Thai Baht",
+        "is_fiat": true,
+        "symbol": "฿"
+    },
+    {
+        "code": "theta",
+        "name": "Theta",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "time",
+        "name": "Chrono.tech",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "tjs",
+        "name": "Tajikistani Somoni",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "tmm",
+        "name": "Turkmenistan Manat",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "tmt",
+        "name": "Turkmenistani Manat",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "tnd",
+        "name": "Tunisian Dinar",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "ton",
+        "name": "Tokamak Network",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "tone",
+        "name": "TE-FOOD",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "top",
+        "name": "Tongan Paʻanga",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "trac",
+        "name": "OriginTrail",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "trb",
+        "name": "Tellor",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "tribe",
+        "name": "Tribe",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "tru",
+        "name": "TrueFi",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "trx",
+        "name": "TRON",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "try",
+        "name": "Turkish Lira",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "ttd",
+        "name": "Trinidad and Tobago Dollar",
+        "is_fiat": true,
+        "symbol": "TT$"
+    },
+    {
+        "code": "tusd",
+        "name": "True USD",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "tvk",
+        "name": "Terra Virtua Kolect",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "twd",
+        "name": "New Taiwan Dollar",
+        "is_fiat": true,
+        "symbol": "NT$"
+    },
+    {
+        "code": "tzs",
+        "name": "Tanzanian Shilling",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "uah",
+        "name": "Ukrainian Hryvnia",
+        "is_fiat": true,
+        "symbol": "₴"
+    },
+    {
+        "code": "ugx",
+        "name": "Uganda Shilling",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "uma",
+        "name": "Universal Market Access",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "unfi",
+        "name": "Unifi Protocol DAO",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "uni",
+        "name": "Uniswap",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "upi",
+        "name": "Pawtocol",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "usd",
+        "name": "US Dollar",
+        "is_fiat": true,
+        "symbol": "$"
+    },
+    {
+        "code": "usdc",
+        "name": "USDC",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "usdp",
+        "name": "USDP Stablecoin",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "usdt",
+        "name": "Tether",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "ust",
+        "name": "TerraUSD",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "uyu",
+        "name": "Uruguayan Peso",
+        "is_fiat": true,
+        "symbol": "$U"
+    },
+    {
+        "code": "uzs",
+        "name": "Uzbekistani Som",
+        "is_fiat": true,
+        "symbol": "лв"
+    },
+    {
+        "code": "vef",
+        "name": "Venezuelan Bolívar Fuerte",
+        "is_fiat": true,
+        "symbol": "Bs"
+    },
+    {
+        "code": "ves",
+        "name": "Venezuelan Bolívar",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "vet",
+        "name": "Vechain",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "vgx",
+        "name": "Voyager Token",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "vnd",
+        "name": "Vietnamese Dong",
+        "is_fiat": true,
+        "symbol": "₫"
+    },
+    {
+        "code": "voxel",
+        "name": "Voxies",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "vuv",
+        "name": "Vanuatu Vatu",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "wampl",
+        "name": "Wrapped Ampleforth",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "waves",
+        "name": "Waves",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "waxl",
+        "name": "Axelar",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "wbtc",
+        "name": "Wrapped Bitcoin",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "wcfg",
+        "name": "Wrapped Centrifuge",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "wemix",
+        "name": "WEMIX",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "wluna",
+        "name": "Wrapped LUNA",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "wst",
+        "name": "Samoan Tālā",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "xaf",
+        "name": "Central African CFA franc",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "xag",
+        "name": "Silver (troy ounce)",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "xau",
+        "name": "Gold (troy ounce)",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "xcd",
+        "name": "East Caribbean Dollar",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "xch",
+        "name": "Chia",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "xcn",
+        "name": "Chain",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "xdc",
+        "name": "XDC Network",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "xdr",
+        "name": "Special Drawing Rights",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "xec",
+        "name": "Eternal Coin",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "xem",
+        "name": "NEM",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "xlm",
+        "name": "Stellar",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "xmon",
+        "name": "XMON",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "xmr",
+        "name": "Monero",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "xof",
+        "name": "West African CFA Franc",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "xpd",
+        "name": "Palladium",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "xpf",
+        "name": "CFP Franc",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "xpt",
+        "name": "Platinum",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "xrp",
+        "name": "Ripple",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "xtz",
+        "name": "Tezos",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "xyo",
+        "name": "XYO Network",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "yer",
+        "name": "Yemeni Rial",
+        "is_fiat": true,
+        "symbol": "﷼"
+    },
+    {
+        "code": "yfi",
+        "name": "Yearn Finance",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "yfii",
+        "name": "DFI.Money",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "zar",
+        "name": "South African Rand",
+        "is_fiat": true,
+        "symbol": "R"
+    },
+    {
+        "code": "zec",
+        "name": "ZCash",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "zen",
+        "name": "Horizen",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "zil",
+        "name": "Zilliqa",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "zmk",
+        "name": "Zambian Kwacha",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "zmw",
+        "name": "Zambian Kwacha",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "zrx",
+        "name": "ZRX 0x",
+        "is_fiat": false,
+        "symbol": null
+    },
+    {
+        "code": "zwd",
+        "name": "Zimbabwean Dollar",
+        "is_fiat": true,
+        "symbol": "Z$"
+    },
+    {
+        "code": "zwl",
+        "name": "Zimbabwean Dollar",
+        "is_fiat": false,
+        "symbol": null
+    }
+]
