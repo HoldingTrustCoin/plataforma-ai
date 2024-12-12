@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'RescronFont';
+    src: url('/assets/fonts/sf-pro-display-font/SF-Pro-Display-Regular.woff') format('woff');
+
+}
+
+.rescron-font {
+    font-family: 'RescronFont', sans-serif;
+}
+
+
+@font-face {
+    font-family: 'RescronFontBold';
+    src: url('/assets/fonts/sf-pro-display-font/SF-Pro-Display-Bold.woff') format('woff');
+}
+
+
+.rescron-font-bold {
+    font-family: 'RescronFontBold', sans-serif;
+}
+
+@font-face {
+    font-family: 'RescronFontItalic';
+    src: url('/assets/fonts/sf-pro-display-font/SF-Pro-Display-RegularItalic.woff') format('woff');
+}
+
+
+.rescron-font-italics {
+    font-family: 'RescronFontItalic', sans-serif;
+}
+
+@font-face {
+    font-family: 'RescronFontBoldItalic';
+    src: url('/assets/fonts/sf-pro-display-font/SF-Pro-Display-BoldItalic.woff') format('woff');
+}
+
+
+.rescron-font-bold-italics {
+    font-family: 'RescronFontBoldItalic', sans-serif;
+}
